@@ -13,7 +13,7 @@ You can take the course online at
 This installation needs a database to function correctly. Any database will do.
 We provide here instructions for setting up and using
 [Postgres](https://www.postgresql.org/).
-- If you don't have a Postgres) installation, install `postgresql` using your
+- If you don't have a (Postgres) installation, install `postgresql` using your
   package manager (e.g `sudo apt install posgtgresql`) and follow the [generic
   instructions](https://wiki.postgresql.org/wiki/First_steps) or the ones
   specific to your distribution (e.g.
